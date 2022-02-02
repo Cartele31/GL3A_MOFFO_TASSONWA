@@ -13,7 +13,7 @@ public class Robot {
         }
         this.nom = nom;
         this.vie = 10;
-    }g
+    }
 
 
     public String getNom() {
